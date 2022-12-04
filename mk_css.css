@@ -1,0 +1,66 @@
+
+.navbar{
+    border: 1px solid black;
+    background-color: rgb(156, 151, 151);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-right: 350px;
+    margin-left: 350px;
+ 
+}
+.navbar:hover{
+    background-color:rgb(245, 236, 236);
+    box-shadow: 10px 10px #a59292;
+    transition: background 0.5s ease-in;
+    transition: background 0.5s ease-out;
+}
+body {
+    background-color: rgb(121, 116, 116);
+    background-image: url("https://jooinn.com/images/dark-water-texture-5.jpg");
+    background-size:cover;
+    /* margin: 30px; */
+    }
+
+.job_history{
+    padding-left: 20px;
+    background-color: rgb(156, 151, 151);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+h6 span {
+    float: right;
+    padding-right: 20px;
+}
+.job_history:hover{
+    background-color:rgb(245, 236, 236);
+    box-shadow: 10px 10px #a59292;
+    transition: background 0.5s ease-in;
+    transition: background 0.5s ease-out;
+
+}
+
+footer {
+    background-color: rgb(156, 151, 151);
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-right: 350px;
+    margin-left: 350px;
+
+    
+}
+
+.footer:hover{
+    border: 1px solid black;
+    background-color:rgb(245, 236, 236);
+    border-radius: 10px;
+    box-shadow: 10px 10px #a59292;
+    padding-bottom: 15px;
+    transition: background 0.5s ease-in;
+    transition: background 0.5s ease-out;
+}
